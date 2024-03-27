@@ -14,3 +14,4 @@ The training and sampling algorithm from the paper (https://arxiv.org/pdf/2006.1
 For reference, the formula of line 4 of algorithm 2 can be derived with: 
 ![img_1.png](img_1.png)
 if we insert (1 - alpha_t) = beta_t and neglect the constant factor, we get the formula of line 4.
+The image is from [https://www.youtube.com/watch?v=HoKDTa5jHvg&t=994s]
